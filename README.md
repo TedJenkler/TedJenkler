@@ -2,6 +2,9 @@
 <h3 align="center">A passionate frontend developer from Sweden</h3>
 
 <p align="center">
+  <a href="https://www.codewars.com/users/TedJenkler" target="_blank" rel="noreferrer">
+  <img src="https://www.codewars.com/assets/logos/logo-square-red-big-c3b27c6745f89c8db1f59a42686ee513d10c13c003a70f571b5e571ff7dffc8e.png" alt="Codewars" width="40" height="40"/>
+</a>
   <a href="https://linkedin.com/in/tedjenklerwebdeveloper/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
