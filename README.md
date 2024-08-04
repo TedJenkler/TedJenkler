@@ -3,7 +3,8 @@
 
 <p align="center">
   <a href="https://www.codewars.com/users/TedJenkler" target="_blank" rel="noreferrer">
-  <img src="https://www.codewars.com/assets/logos/logo-square-red-big-c3b27c6745f89c8db1f59a42686ee513d10c13c003a70f571b5e571ff7dffc8e.png" alt="Codewars" width="40" height="40"/>
+  <img src="https://www.codewars.com/assets/logos/logo-square-red-big-0c1b7b89b6e8b8ef4d12b8c8f1b2a2b8315c5825d4c9e4e8e9a0cbdbbc1e8ee1.png" alt="Codewars" width="40" height="40"/>
+</a>
 </a>
   <a href="https://linkedin.com/in/tedjenklerwebdeveloper/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -16,7 +17,7 @@
 <p align="center">🤝 I’m looking for help with <a href="https://github.com/TedJenkler/feedback-app-MERN-tailwind">Feedback On My Project</a></p>
 <p align="center">💬 Ask me about <strong>React, Vite, Tailwind</strong></p>
 <p align="center">📫 How to reach me: <a href="mailto:tedjenkler@gmail.com">tedjenkler@gmail.com</a></p>
-<p align="center">⚡ Fun fact: I have currently spent 400+ hours on building projects this year, 200+ hours studying, and 50+ hours problem-solving challenges.</p>
+<p align="center">⚡ Fun fact: I have currently spent 480+ hours on building projects this year, 210+ hours studying, and 50+ hours problem-solving challenges.</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
