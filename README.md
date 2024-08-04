@@ -12,8 +12,8 @@
   <!-- Add more social media icons and links as needed -->
 </p>
 
-<p align="center">🔭 I’m currently working on <a href="https://github.com/TedJenkler/TodoApp-MERN-Tailwind-Typescript">TodoApp MERN w/Tailwind and Typescript</a></p>
-<p align="center">🌱 I’m currently learning <strong>Typescript</strong></p>
+<p align="center">🔭 I’m currently working on <a href="https://github.com/TedJenkler/Entertainment-web-app-MERN-SCSS">Entertainment-web-app-MERN-SCSS</a></p>
+<p align="center">🌱 I’m currently learning <strong>Typescript and SCSS</strong></p>
 <p align="center">🤝 I’m looking for help with <a href="https://github.com/TedJenkler/feedback-app-MERN-tailwind">Feedback On My Project</a></p>
 <p align="center">💬 Ask me about <strong>React, Vite, Tailwind</strong></p>
 <p align="center">📫 How to reach me: <a href="mailto:tedjenkler@gmail.com">tedjenkler@gmail.com</a></p>
