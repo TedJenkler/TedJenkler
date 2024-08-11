@@ -146,7 +146,3 @@ Much like planting a sapling with the vision for future growth and strength, I a
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me A Coffee" />
   </a>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tedjenkler&layout=compact&hide=html" alt="Top Languages" />
-</p>
