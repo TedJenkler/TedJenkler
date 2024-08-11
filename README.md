@@ -31,7 +31,7 @@ Much like planting a sapling with the vision for future growth and strength, I a
   <img src="https://www.frontendmentor.io/static/images/logo-desktop.svg" alt="Frontend Mentor Logo" width="100"/>
 </p>
 
----
+#
 
 <h3 align="center">Frontend Languages and Tools:</h3>
 <p align="center">
@@ -115,7 +115,30 @@ Much like planting a sapling with the vision for future growth and strength, I a
   <!-- Additional tools can be added similarly -->
 </p>
 
----
+#
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TedJenkler&theme=radical" alt="GitHub Streak" />
+</p>
+
+<details>
+  <summary>More Stats</summary>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TedJenkler&layout=compact&langs_count=10&theme=radical" alt="Top Languages" />
+  </p>
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TedJenkler&theme=radical" alt="GitHub Profile Summary" />
+  </p>
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TedJenkler&theme=radical" alt="Top Languages by Repositories" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TedJenkler&theme=radical" alt="Top Languages by Commits" />
+  </p>
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TedJenkler&theme=radical&utcOffset=8" alt="Most Productive Time" />
+  </p>
+</details>
+
+#
 
 <h3 align="center">Support Me:</h3>
 <p align="center">
