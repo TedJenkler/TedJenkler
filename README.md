@@ -117,6 +117,24 @@ Much like planting a sapling with the vision for future growth and strength, I a
 
 #
 
+# My Portfolio
+
+Welcome to my portfolio! Below you can explore different sections of my projects.
+
+<details>
+  <summary>Click to expand: Portfolio Project</summary>
+
+  <details>
+    <summary>SCSS Portfolio</summary>
+
+    **Content here**
+
+  </details>
+
+</details>
+
+#
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TedJenkler&theme=radical" alt="GitHub Streak" />
 </p>
