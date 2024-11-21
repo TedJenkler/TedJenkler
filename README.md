@@ -119,21 +119,24 @@ Much like planting a sapling with the vision for future growth and strength, I a
 
 # My Portfolio
 
-Welcome to my portfolio! Below you can explore different sections of my projects.
+Welcome to my portfolio! Below you can explore the details of my WordPress project.
 
 <details>
-  <summary>Click to expand: Portfolio Project</summary>
+  <summary>Click to expand: WordPress Project</summary>
 
-  <details>
-    <summary>SCSS Portfolio</summary>
+  **Photosnap - WordPress Stack**  
+  A fully custom WordPress site built from scratch without plugins, using a custom theme crafted with PHP, CSS, and Gutenberg blocks. This project showcases responsive design, accessibility, and performance optimization.
 
-    **Content here**
+  ### Desktop Version
+  ![Desktop](https://github.com/TedJenkler/Photosnap---WordpressStack/raw/main/photosnap-desktop.png)
 
-  </details>
+  ### Tablet Version
+  ![Tablet](https://github.com/TedJenkler/Photosnap---WordpressStack/raw/main/photosnap-tablet.png)
+
+  ### Mobile Version
+  ![Mobile](https://github.com/TedJenkler/Photosnap---WordpressStack/raw/main/photosnap-mobile.png)
 
 </details>
-
-#
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TedJenkler&theme=radical" alt="GitHub Streak" />
