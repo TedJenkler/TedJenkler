@@ -23,7 +23,7 @@ Much like planting a sapling with the vision for future growth and strength, I a
   📫 How to reach me: <a href="mailto:tedjenkler@gmail.com">tedjenkler@gmail.com</a>
 </p>
 <p align="center">
-  ⚡ Fun fact: I have currently spent <strong><u>800+</u></strong> hours on building projects this year, <strong><u>380+</u></strong> hours studying, and <strong><u>130+</u></strong> hours problem-solving challenges.
+  ⚡ Fun fact: I have currently spent <strong><u>820+</u></strong> hours on building projects this year, <strong><u>390+</u></strong> hours studying, and <strong><u>140+</u></strong> hours problem-solving challenges.
 </p>
 <p align="center">
   👨‍🏫 Aspiring Mentor on <a href="https://www.frontendmentor.io/">Frontend Mentor</a>, trying to give back to the community
