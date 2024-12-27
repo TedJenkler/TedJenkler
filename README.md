@@ -158,12 +158,3 @@ Welcome to my portfolio! Below you can explore the details of my WordPress proje
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TedJenkler&theme=radical&utcOffset=8" alt="Most Productive Time" />
   </p>
 </details>
-
-#
-
-<h3 align="center">Support Me:</h3>
-<p align="center">
-  <a href="https://www.buymeacoffee.com/tedjenkler">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me A Coffee" />
-  </a>
-</p>
