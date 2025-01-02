@@ -29,7 +29,8 @@ struct Year2025 {
     int studying = 7;
     int problem_solving = 1;
 };
-
+</pre>
+<pre>
 /* Fun Fact for 2024 (in hours) */
 struct Year2024 {
     int building_projects = 860;
