@@ -22,9 +22,21 @@ Much like planting a sapling with the vision for future growth and strength, I a
 <p align="center">
   📫 How to reach me: <a href="mailto:tedjenkler@gmail.com">tedjenkler@gmail.com</a>
 </p>
-<p align="center">
-  ⚡ Fun fact: I have currently spent <strong><u>860</u></strong> hours on building projects this year, <strong><u>443</u></strong> hours studying, and <strong><u>235</u></strong> hours problem-solving challenges.
-</p>
+<pre>
+/* Fun Fact for 2025 (in hours) */
+struct Year2025 {
+    int building_projects = 0;
+    int studying = 7;
+    int problem_solving = 1;
+};
+
+/* Fun Fact for 2024 (in hours) */
+struct Year2024 {
+    int building_projects = 860;
+    int studying = 443;
+    int problem_solving = 235;
+};
+</pre>
 <p align="center">
   👨‍🏫 Aspiring Mentor on <a href="https://www.frontendmentor.io/">Frontend Mentor</a>, trying to give back to the community
   <br>
