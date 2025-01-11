@@ -25,9 +25,9 @@ Much like planting a sapling with the vision for future growth and strength, I a
 <pre>
 /* Fun Fact for 2025 (in hours) */
 struct Year2025 {
-    int building_projects = 10;
-    int studying = 12;
-    int problem_solving = 2;
+    int building_projects = 13;
+    int studying = 32;
+    int problem_solving = 3;
 };
 </pre>
 <pre>
